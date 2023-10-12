@@ -1,10 +1,10 @@
 import React from 'react';
-import Base from './Base';
+import Heroes from './Heroes';
 
 const App = () => {
   return (
     <div>
-      <Base />
+      <Heroes />
     </div>
   );
 }
