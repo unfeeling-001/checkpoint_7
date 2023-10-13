@@ -1,6 +1,8 @@
 import React from 'react';
 import Heroes from './Heroes';
 
+
+
 const App = () => {
   return (
     <div>
@@ -8,5 +10,8 @@ const App = () => {
     </div>
   );
 }
+
+
+
 
 export default App;
